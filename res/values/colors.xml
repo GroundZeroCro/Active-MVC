@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/dawn_3</color>
+    <color name="colorPrimaryDark">@color/dawn_2</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="dawn_1">#2C122B</color>
+    <color name="dawn_2">#4B0930</color>
+    <color name="dawn_3">#801037</color>
+    <color name="dawn_4">#BE2A40</color>
+    <color name="dawn_5">#E7433E</color>
+    <color name="white">#E9D9D9</color>
+</resources>

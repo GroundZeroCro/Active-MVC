@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Active MVC</string>
+    <string name="increment_button">Increment</string>
+</resources>
