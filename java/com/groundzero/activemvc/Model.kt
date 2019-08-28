@@ -7,7 +7,7 @@ import kotlinx.coroutines.launch
 
 class Model {
 
-    var channelNumber = BroadcastChannel<Int>(10)
+    var channelNumber = BroadcastChannel<Int>(1)
 
     fun changeChannelNumber(number: Int) {
         CoroutineScope(IO).launch {
